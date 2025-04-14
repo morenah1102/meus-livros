@@ -6,6 +6,11 @@
 }
 .img{
     width:30%;
+    max-width: 600px;
+    height: auto;
+    border: 5px solid #1494c7;
+    margin: 20px auto;
+    display: block;
 }
 .p{
     font: size 1.8em;;
